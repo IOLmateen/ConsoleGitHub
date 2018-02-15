@@ -11,10 +11,6 @@ namespace ConsoleGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("hello Mateen");
-
-            Console.WriteLine("hello Mateenh1 ");
-
-
         }
     }
 }
